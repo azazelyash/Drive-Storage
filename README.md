@@ -15,8 +15,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Changes Made in the build.gradle file of application level
-
-Min SDK Version: 24
-Target SDK Version: 30
-multiDexEnabled set to true true
+## Changes Made in the build.gradle file of application level
+```
+1. Min SDK Version: 24
+2. Target SDK Version: 30
+3. Multi Dex Enabled: true
+```
